@@ -1,4 +1,4 @@
-# My Awesome Book# So Long Marianne
+# So Long Marianne
 
 ### Leonard Cohen
 
