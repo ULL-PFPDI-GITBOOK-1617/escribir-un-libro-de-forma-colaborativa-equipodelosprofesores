@@ -50,7 +50,52 @@
 {% youtube %}https://youtu.be/cZI6EdnvH-8{% endyoutube %}
 
 
+# Take the Waltz
+### Leonard Cohen
 
+>Now in Vienna there are ten pretty women
+
+>There's a shoulder where Death comes to cry
+
+>There's a lobby with nine hundred windows
+
+>There's a tree where the doves go to die
+
+>There's a piece that was torn from the morning
+
+>And it hangs in the Gallery of Frost
+
+>I, I-I-I
+
+>Take this waltz, take this waltz
+
+>Take this waltz with the clamp on its jaws
+
+>Oh, I want you, I want you, I want you
+
+>On a chair with a dead magazine
+
+>In the cave at the tip of the lilly
+
+>In some hallway where love's never been
+
+>On a bed where the moon has been sweating
+
+>In a cry filled with footsteps and sand
+
+>I, I-I-I
+
+>Take this waltz, take this waltz
+
+>Take its broken waist in your hand
+
+>This waltz, this waltz, this waltz, this waltz
+
+>With its very own breath of brandy and Death
+
+>Dragging its tail in the sea
+
+>There's…
 
 
 
